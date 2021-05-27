@@ -10,4 +10,7 @@ This file consists of  a piece of text scrapped from a website and involves basi
 Similar approach as above is performed for this text data but N-Gram is sued for the frequency of words calculation and summarization. Here Unigrams, Bigrams and Trigrams are created first and then used for frequency count.
 
 ## Word Prediction with N-Grams
+Created word tokens of the sentence, found frequency for each of the unigrams and relative frequency for bigrams. Performed word prediction using the relative frequency and probability.
+
 ## NER & De-Identification Using SPACY
+Used Spacy library to perform Named Entity Recognition on a webscarpped news article. 
